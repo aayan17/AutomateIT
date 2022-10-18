@@ -1,7 +1,7 @@
 # Automate_Insta
 Automating Instagram texts.
 
-This Python program send a single message to any number of people you want by using your credentials and usernames of the people you want to send the text. This works with the latest version of Instagram Desktop (Date : 23/03/2022).
+This Python program send a single message to any number of people you want by using your credentials and usernames of the people you want to send the text. This works with the latest version of Instagram Desktop (Date : 25/06/2022).
 
 This Python script uses **Selenium** and **webdriver-manager**.
 
